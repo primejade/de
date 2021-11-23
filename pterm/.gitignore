@@ -1,0 +1,5 @@
+config.def.h.orig
+st
+*.o
+x.c.orig
+pterm

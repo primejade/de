@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.pdf 
+
+dmenu/dmenu
+dwm/dwm
+farbfeld/farbfeld
+patches/patches
+pterm/pterm
+sent/sent
+slock/slock
+slstatus/slstatus
+st/st
+tabbed/tabbed
