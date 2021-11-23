@@ -1,0 +1,17 @@
+- Progress bar patch applied
+
+→ This is sent
+▸ The suckless's presentation tool
+» based on
+    • Xlib
+    • Xft 
+    • farbfeld
+⇒ to show images, you need farbfeld
+
+The End
+
+The End
+
+The End
+
+The End
