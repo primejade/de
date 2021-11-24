@@ -10,8 +10,14 @@
 
 The End
 
-The End
+Suckless dwm            
+    • Dynamic
+    › Tiling
+    » Simple 
 
-The End
+
+Why Suckless?
+    ▸ it sucks less :/
+    ▸ less code, less bugs
 
 The End
