@@ -17,8 +17,8 @@ static const char *colors[] = {
 };
 
 static const char *inverted_colors[] = {
-	"#FFFFFF", /* foreground color */
-	"#000000", /* background color */
+	"#191919", /* foreground color */
+	"#dddddd", /* background color */
 };
 
 static const float linespacing = 1.4;
@@ -60,6 +60,7 @@ static Shortcut shortcuts[] = {
 	{ XK_n,           advance,        {.i = +1} },
 	{ XK_p,           advance,        {.i = -1} },
 	{ XK_r,           reload,         {0} },
+	{ XK_i,           togglescm,      {0} },
 };
 
 static Filter filters[] = {
