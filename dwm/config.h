@@ -138,8 +138,8 @@ static const char *scrnlk[]      = { "slock",       NULL };
 static const char *mltermcmd[]   = { "mlterm",      NULL };
 static const char *flotercmd[]   = { "st", "-t", "Terminal", NULL};
 static const char *browcmd[]     = { "qutebrowser", NULL };
-static const char *simpletcmd[]  = { "pterm",       NULL };
-static const char *regularcmd[]  = { "sterm",       NULL };
+static const char *simpletcmd[]  = { "sterm",       NULL };
+static const char *regularcmd[]  = { "pterm",       NULL };
 //static const char *flotercmd[]  = { "st", "-t", "Terminal", NULL};
 //static const char *tabbedcmd[]  = { "tabbed", "-r", "2" ,"st", "-w", "''", "-t", "sterm", NULL};
 //
