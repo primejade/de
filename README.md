@@ -1,4 +1,5 @@
 # de
+
 Hos de
 
 ## Tools
@@ -14,35 +15,33 @@ Hos de
 - slstatus
 - tabbed
 
-## Dependencies
+## Shots
 
-### Shots
-
-- __dmenu__
+### dmenu
 
 ![dmenu-shot](shots/dmenu.png)
 
-- __dwm__
+### dwm
 
 ![dwm-shot](shots/dwm.png)
 
-- __pterm__
+### pterm
 
 ![pterm-shot](shots/pterm.png)
 
-- __st__
+### st
 
 ![st-shot](shots/st.png)
 
-- __sterm__
+### sterm
 
 ![sterm-shot](shots/sterm.png)
 
-- __sent__
+### sent
 
 ![sent-shot](shots/sent.png)
 
-- __slstatus__
+### slstatus
 
 ![slstatus-shot](shots/slstatus.png)
 
